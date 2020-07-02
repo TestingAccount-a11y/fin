@@ -1,0 +1,1 @@
+"use strict";window.addEventListener("load",function(){if(void 0!==window.resourceErrorList&&0!==window.resourceErrorList.length){var r=window.resourceErrorList,e="The files ".concat(r.join(" , ")," failed to load. Possibly a 40X error.");window.coreServiceAdapter&&window.coreServiceAdapter.logger&&window.coreServiceAdapter.logger.error(e,r)}});

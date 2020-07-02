@@ -1,0 +1,1 @@
+"use strict";window.resourceErrorList=[],window.addEventListener("error",function(r){if(r.target){var e=r.target.src||r.target.href;e&&-1!==e.indexOf("/widgets/")&&-1===e.indexOf("/handlebars/common/")&&window.resourceErrorList.push(e)}},!0);
